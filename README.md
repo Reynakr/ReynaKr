@@ -1,31 +1,55 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ce85ff&height=180&text=ReynaKr&animation=fadeIn&fontColor=ffffff&fontSize=50" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hello, world! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> THE EASY DAY WAS ONY YESTERDAY </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-          </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center">  </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReynaKr&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
-    </div>
-    
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E24B4A&height=6&width=100%25" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=181717,E24B4A&height=200&text=ReynaKr&animation=fadeIn&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=THE%20EASY%20DAY%20WAS%20ONLY%20YESTERDAY&descAlignY=58&descSize=14" />
+</div>
+
+---
+
+### 🏁 `DRIVER PROFILE`
+
+---
+
+### 🛠️ `TECH STACK — SETUP SHEET`
+
+<div align="center">
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+
+</div>
+
+---
+
+### 📊 `RACE STATS`
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReynaKr&layout=compact&bg_color=0d1117&title_color=E24B4A&text_color=c9d1d9&border_color=30363d" />
+  &nbsp;
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ReynaKr&theme=dark&hide_border=false&background=0d1117&ring=E24B4A&fire=E24B4A&currStreakLabel=E24B4A" />
+</div>
+
+---
+
+### 📡 `PIT RADIO — CONTACT`
+
+<div align="center">
+  <!-- 연락처 추가할 때 여기에 배지 넣으세요 -->
+</div>
+
+---
+
+<div align="center">
+  <sub>🏎️ LIGHTS OUT AND AWAY WE GO</sub>
+</div>

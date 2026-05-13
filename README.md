@@ -5,14 +5,11 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=181717,E24B4A&height=200&text=ReynaKr&animation=fadeIn&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=THE%20EASY%20DAY%20WAS%20ONLY%20YESTERDAY&descAlignY=58&descSize=14" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=181717,E24B4A&height=200&text=ReynaKr&animation=fadeIn&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Sheer%20Driving%20Pleasure&descAlignY=58&descSize=14" />
 </div>
 
 ---
 
-### 🏁 `DRIVER PROFILE`
-
----
 
 ### 🛠️ `TECH STACK — SETUP SHEET`
 
@@ -46,6 +43,12 @@
 
 <div align="center">
   <!-- 연락처 추가할 때 여기에 배지 넣으세요 -->
+</div>
+
+---
+
+<div align="center">
+  <sub>🏎️ Sheer Driving Pleasure</sub>
 </div>
 
 ---

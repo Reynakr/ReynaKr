@@ -34,7 +34,7 @@
 ### 📊 `RACE STATS`
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReynaKr&layout=compact&bg_color=0d1117&title_color=E24B4A&text_color=c9d1d9&border_color=30363d" />
+
   &nbsp;
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ReynaKr&theme=dark&hide_border=false&background=0d1117&ring=E24B4A&fire=E24B4A&currStreakLabel=E24B4A" />
 </div>
